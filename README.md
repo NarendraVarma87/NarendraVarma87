@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **narendravarma97047@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D6zxeD6yEQUHYI9IiiG_skSBUhS5p7zY/view](https://drive.google.com/file/d/1D6zxeD6yEQUHYI9IiiG_skSBUhS5p7zY/view)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1C_mPjaQSirVBJM6F0L_2UERaDpeF6x7o/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narendra varma uppalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra varma uppalapati" height="30" width="40" /></a>
