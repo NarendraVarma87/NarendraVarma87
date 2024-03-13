@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra Varma</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img src="https://res.cloudinary.com/dau1qydx2/image/upload/v1703351180/first_gzvpdd.gif" align="right" width="400"/>
-- 🌱 I’m currently learning **java full stack**
+- 🌱 I’m currently learning ** full stack java development **
 
 - 👨‍💻 All of my projects are available at [https://varma-portfolio-one.vercel.app/](https://varma-portfolio-one.vercel.app/)
 
