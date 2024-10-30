@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://bootstrap-bootcamp-varma.netlify.app/](https://bootstrap-bootcamp-varma.netlify.app/)
 
-- 💬 Ask me about **java, springboot, react, redux**
+- 💬 Ask me about **java, springboot, react, redux, mern stack**
 
 - 📫 How to reach me **narendravarma97047@gmail.com**
 
