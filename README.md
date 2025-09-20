@@ -4,7 +4,7 @@
 
 - 💼 I have **1+ year of experience as a MERN Stack Developer** at **Tinydata Technologies Pvt. Ltd.**
 
-- 🌱 I’m currently learning and exploring **Full Stack Java Development**, **DevOps**, **System Design**, and **Cloud Technologies**
+- 🌱 I’m currently learning and exploring  **DevOps**, **System Design**, and **Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://varma-portfolio-one.vercel.app/](https://varma-portfolio-one.vercel.app/)
 
